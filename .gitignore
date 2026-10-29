@@ -1,0 +1,13 @@
+*.bak
+*.bak2
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.pdf
+*.json
+.env
+.env.*
+__pycache__/
+venv/
+.venv/
