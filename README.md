@@ -1,3 +1,5 @@
+![Sentinel Platform | AK Sentinel Labs](assets/sentinel-platform-banner.png)
+
 # Sentinel Platform
 
 ### Enterprise Cybersecurity Auditing Platform
